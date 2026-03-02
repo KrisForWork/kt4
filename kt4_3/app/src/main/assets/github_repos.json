@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1,
+    "full_name": "JetBrains/kotlin",
+    "description": "The Kotlin Programming Language",
+    "stargazers_count": 48000,
+    "language": "Kotlin"
+  },
+  {
+    "id": 2,
+    "full_name": "square/okhttp",
+    "description": "Square's meticulous HTTP client for Java and Kotlin",
+    "stargazers_count": 45000,
+    "language": "Java"
+  },
+  {
+    "id": 3,
+    "full_name": "google/gson",
+    "description": "A Java serialization/deserialization library",
+    "stargazers_count": 23000,
+    "language": "Java"
+  },
+  {
+    "id": 4,
+    "full_name": "bumptech/glide",
+    "description": "An image loading and caching library for Android",
+    "stargazers_count": 34000,
+    "language": "Java"
+  },
+  {
+    "id": 5,
+    "full_name": "square/retrofit",
+    "description": "A type-safe HTTP client for Android and Java",
+    "stargazers_count": 42000,
+    "language": "Java"
+  },
+  {
+    "id": 6,
+    "full_name": "ReactiveX/RxJava",
+    "description": "RxJava – Reactive Extensions for the JVM",
+    "stargazers_count": 47000,
+    "language": "Java"
+  },
+  {
+    "id": 7,
+    "full_name": "square/leakcanary",
+    "description": "A memory leak detection library for Android",
+    "stargazers_count": 29000,
+    "language": "Kotlin"
+  },
+  {
+    "id": 8,
+    "full_name": "Kotlin/kotlinx.coroutines",
+    "description": "Library support for Kotlin coroutines",
+    "stargazers_count": 12500,
+    "language": "Kotlin"
+  },
+  {
+    "id": 9,
+    "full_name": "coil-kt/coil",
+    "description": "Image loading for Android backed by Kotlin Coroutines",
+    "stargazers_count": 10000,
+    "language": "Kotlin"
+  },
+  {
+    "id": 10,
+    "full_name": "Kotlin/anko",
+    "description": "Pleasant Android application development",
+    "stargazers_count": 15900,
+    "language": "Kotlin"
+  },
+  {
+    "id": 11,
+    "full_name": "google/iosched",
+    "description": "The Google I/O 2019 Android App",
+    "stargazers_count": 21700,
+    "language": "Kotlin"
+  },
+  {
+    "id": 12,
+    "full_name": "android/architecture-components-samples",
+    "description": "Samples for Android Architecture Components",
+    "stargazers_count": 23000,
+    "language": "Java"
+  },
+  {
+    "id": 13,
+    "full_name": "facebook/soloader",
+    "description": "Native code loader for Android",
+    "stargazers_count": 1500,
+    "language": "Java"
+  },
+  {
+    "id": 14,
+    "full_name": "nickbutcher/plaid",
+    "description": "An Android app which provides design news & inspiration",
+    "stargazers_count": 16200,
+    "language": "Kotlin"
+  },
+  {
+    "id": 15,
+    "full_name": "material-components/material-components-android",
+    "description": "Modular and customizable Material Design UI components",
+    "stargazers_count": 16000,
+    "language": "Java"
+  }
+]
