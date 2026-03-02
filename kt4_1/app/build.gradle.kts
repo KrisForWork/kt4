@@ -5,13 +5,13 @@ plugins {
 }
 
 android {
-    namespace = "com.example.kt4_1"
+    namespace = "com.example.kt4_11"
     compileSdk {
         version = release(36)
     }
 
     defaultConfig {
-        applicationId = "com.example.kt4_1"
+        applicationId = "com.example.kt4_11"
         minSdk = 26
         targetSdk = 36
         versionCode = 1
@@ -39,9 +39,21 @@ android {
     buildFeatures {
         compose = true
     }
+
+    tasks.withType<JavaCompile> {
+        options.encoding = "UTF-8"
+    }
 }
 
 dependencies {
+    implementation("org.jetbrains.kotlinx:kotlinx-coroutines-android:1.3.9")
+    implementation("org.jetbrains.kotlinx:kotlinx-serialization-json:1.5.1")
+    implementation("com.jakewharton.retrofit:retrofit2-kotlinx-serialization-converter:1.0.0")
+    implementation("com.squareup.okhttp3:okhttp:4.11.0")
+
+    implementation(libs.gson)
+
+
     implementation(libs.androidx.core.ktx)
     implementation(libs.androidx.lifecycle.runtime.ktx)
     implementation(libs.androidx.activity.compose)
